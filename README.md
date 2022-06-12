@@ -11,6 +11,16 @@ a flask server,can be deployed into cloud services like heroku,aws,google cloud 
   <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/crypto2.png" width="350" /> 
 </p>
 
+## Packages used
+
+- pandas
+- numpy
+- datetime
+- pandas datareader
+- tensorflow
+- flask
+
+
 ## Prerequisites
 
 - To deploy this project run
