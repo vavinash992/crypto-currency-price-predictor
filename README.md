@@ -10,3 +10,18 @@ a flask server,can be deployed into cloud services like heroku,aws,google cloud 
   <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/crypto1.png" width="350" />
   <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/crypto2.png" width="350" /> 
 </p>
+
+## Prerequisites
+
+- To deploy this project run
+
+```bash
+  $ pip install -r /path/to/requirements.txt
+```
+- Than run the app.py 
+```bash
+  $ python3 app.py
+```
+- A link will appear on the command line copy it and paste it in the browser
+
+    by default it runs in the following website http://127.0.0.1:5000/
