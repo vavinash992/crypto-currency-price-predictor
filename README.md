@@ -7,6 +7,6 @@ a flask server,can be deployed into cloud services like heroku,aws,google cloud 
 
 <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/ezgif.com-gif-maker.gif" width="640" height="360"/>
 <p float="left">
-  <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/crypto1.png" width="500" />
-  <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/crypto2.png" width="500" /> 
+  <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/crypto1.png" width="300" />
+  <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/crypto2.png" width="300" /> 
 </p>
