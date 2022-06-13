@@ -7,12 +7,13 @@
     </head>
     <body>
         <div class="container">
-           
+            <div class="brand-logo"></div>
         <div class="brand-title">CRYPTO PRICE PREDICTOR</div>
         
         <form action="/action" method="POST">
             <div class="box">
-                <select name="crypto">
+                <select name="crypto" required>
+                    <option value="">Select Crypto</option>
                     <option value="BTC-USD">Bitcoin</option>
                     <option value="ETH-USD">Ethereum</option>
                     <option value="XRP-USD">Ripple</option>
@@ -21,7 +22,7 @@
                 </div>
             <div class="inputs">
             <label for="Date">Crypto:</label>
-            <input type="date" name="Date"> <br>
+            <input type="date" name="Date" id="datevalue" min="2015-09-17" max="2022-05-31" required> <br>
             <input type="submit" value="predict">
         </form>
     </div>
